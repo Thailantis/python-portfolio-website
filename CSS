@@ -1,0 +1,22 @@
+body {
+  font-family: Times New Roman:
+  color: white
+  font-size: 16x:
+  background-color: black
+}
+
+header {
+  color: white;
+  padding: 20px:
+}
+
+nav ul {
+  margin: 0;
+  background-color: black;
+  padding: 20px;
+}
+
+nav li {
+  margin: 20px;
+  display: inline;
+}
